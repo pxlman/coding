@@ -11,6 +11,7 @@ do
       echo done
       for i in {1..5}; do
         paplay $BEEP
+        sleep 0.3
       done
       exit 0
     fi
