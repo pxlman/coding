@@ -1,6 +1,6 @@
 ## Waiting site's response
 
-### instruction
+### Instructions
 
 ```bash
 git clone https://github.com/pxlman/coding
@@ -9,3 +9,5 @@ cd bash
 chmod +x if_response.sh
 ./if_response.sh
 ```
+
+Or take the code copy easier
