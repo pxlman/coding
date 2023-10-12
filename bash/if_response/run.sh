@@ -9,7 +9,9 @@ do
   then
     if [ $SECONDS -lt 5 ]; then
       echo done
-      paplay $BEEP
+      for i in {1..5}; do
+        paplay $BEEP
+      done
       exit 0
     fi
   else
