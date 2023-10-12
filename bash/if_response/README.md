@@ -9,4 +9,4 @@ chmod +x run.sh
 ./run.sh LINK_TO_CHECK
 ```
 
-Or take the code copy easier :D
+Or copy the code easier :)
