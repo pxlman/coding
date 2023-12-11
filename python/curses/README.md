@@ -62,12 +62,12 @@ win.refresh()
 ## Pads
 
 ```py
-pad = curses.newpad(prect_row,`HelpChoosingContent`
-                    prect_col,`With respect to pad`
-                    s_row,`start pos`
-                    s_col,`with respect to win`
-                    e_row,`end pos`
-                    e_col)`with respect to win`
+pad = curses.newpad(prect_row,#HelpChoosingContent
+                    prect_col,#With respect to pad
+                    s_row,#start pos
+                    s_col,#with respect to win
+                    e_row,#end pos
+                    e_col)#with respect to win
 
 ```
 
